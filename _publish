@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #en
-pandoc resume_en.md -o resume_en.html -t html5 \
+pandoc resume_en.md -o index.html -t html5 \
   -f markdown+smart \
   --standalone \
   --email-obfuscation=references \
