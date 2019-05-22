@@ -32,3 +32,5 @@ pandoc mlateb_cv_fr.md -o mlateb_cv_fr.odt --reference-doc=_pandoc/reference.odt
 
 libreoffice --headless --convert-to doc mlateb_cv_fr.odt
 libreoffice --headless --convert-to pdf mlateb_cv_fr.odt
+
+echo Documents created successfully!!

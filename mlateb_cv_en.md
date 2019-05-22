@@ -1,40 +1,45 @@
----
-fontsize: 20pt
-dir: ltr   
-title: Mustapha Lateb
----
+Mustapha Lateb
+=============
 
-Site: <https://mlateb.github.io>   
-Email: <mustapha.lateb@gmail.com>   
-GitHub: <https://github.com/mlateb>   
-Stackoverflow: <https://stackoverflow.com/cv/mlateb>    
-Twitter: <https://twitter.com/MustaphaLateb>     
-Adress: Chania, Greece   
+Site: [mlateb.github.io][]     
+Email: <mustapha.lateb@gmail.com>  
+Adress: Chania, Greece    
+Phone: 699 499 7057
 
----
+Introduction
+------------
+   
 I use Satellite Remote Sensing and GIS, Image processing, Machine Learning, Statistics, Timeseries Analysis in order to solve Ecolocal issues, mainly Landcover change and Forestfire mapping.    
 Focuse is on Open Source solutions, Python geospatial libraries, QGIS, linux, Version controle systems. Commercial tools are also used. 
 
 I’m currently working as **researcher** at *Mediterranean Agronomic Institute of Chania* [MAICh](https://www.iamc.ciheam.org/).      
 
----
+Work Experience   
+---------------      
+    
+**Researcher** at the *Geoinformation in Environmental Management* departement, *Mediterranean Agronomic Institute of Chania* [MAICh](https://www.iamc.ciheam.org/).      
 
-## Work Experience   
-**Researcher** at the *Geoinformation in Environmental Management* departement of the *Mediterranean Agronomic Institute of Chania* [MAICh](https://www.iamc.ciheam.org/).      
-
-## Communication and Organisation
+Communication and Organisation
+------------------------------
+   
 Used to work in multicultural and multidisciplinary teams. Open to new ideas and challenges. I was in the organising committee of the following conferences:    
-
+    
 * [38th Annual EARSeL Symposium](http://symposium.earsel.org/38th-symposium-Chania/)   
 * [11th EARSeL Forest Fires SIG Workshop](http://ffsig2017.maich.gr/en/)   
+    
+Other Work Experience   
+---------------------   
    
-## Other Work Experience   
 During two years I worked     
+    
 * Mar 2013–Sep 2013 : **Energy Steward** at Aldaph (Novo Nordisk A/S),TO, Algeria
 * Nov 2011–Feb 2013 : **Quality Assurance Technician** at Aldaph (Novo Nordisk A/S),TO, Algeria    
+    
 Novo Nordisk A/S - Global healthcare company headquartered in Denmark.
 
-## Education
+Education
+---------   
+   
 * 2016 – current : *PhD student*, **Geoinformation applied to Plant Ecology**, UMMTO, Algeria    
 *Topic:* Multitemporal landcover mapping   
 * 2013 - 2016 : *M. Sc. Degree (2 years)*, **Geoinformation in Environmental Management**, MAICh, Greece    
@@ -46,10 +51,8 @@ Novo Nordisk A/S - Global healthcare company headquartered in Denmark.
 * 2008 - 2011 : *Senior Technician (3 years)*, **Database Management** INSFP, Algeria   
 *Thesis topic:* "  Creation of a Dynamic Website "   
 
-
-   
-
-## Programming Skills :   
+Programming Skills
+------------------   
    
 **Geospatial processing:** Python (rasterio, pandas, numpy, matplotlib,seaborn, geopandas, shapely, …)   
 **Database:** SQL   
@@ -58,10 +61,16 @@ Novo Nordisk A/S - Global healthcare company headquartered in Denmark.
 **Softwares:** QGIS, eCognition,  ArcGIS, ERDAS, MapInfo  
 **Operating systems:** Linux & Windows   
    
-## Languages 
+Languages
+---------   
+
 * **Kabyle :** Mother tongue
 * **English:** Fluent
 * **French:** Fluent
 * **Arabic:** Fluent
 * **Greek:** Beginner
 
+
+
+
+[mlateb.github.io]:https://mlateb.github.io 
