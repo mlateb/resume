@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #en
-pandoc resume_en.md -o index.html -t html5 \
+pandoc mlateb_cv_en.md -o index.html -t html5 \
   -f markdown+smart \
   --standalone \
   --email-obfuscation=references \
@@ -11,14 +11,14 @@ pandoc resume_en.md -o index.html -t html5 \
   --include-after-body=_pandoc/footer_en.html \
   --variable="pagetitle:Resume :: Mustapha Lateb"
 
-pandoc resume_en.md -o resume_en.odt --reference-doc=_pandoc/reference.odt
+pandoc mlateb_cv_en.md -o mlateb_cv_en.odt --reference-doc=_pandoc/reference.odt
 
-libreoffice --headless --convert-to doc resume_en.odt
-libreoffice --headless --convert-to pdf resume_en.odt
+libreoffice --headless --convert-to doc mlateb_cv_en.odt
+libreoffice --headless --convert-to pdf mlateb_cv_en.odt
 
 
 #fr
-pandoc resume_fr.md -o resume_fr.html -t html5 \
+pandoc mlateb_cv_fr.md -o mlateb_cv_fr.html -t html5 \
   -f markdown+smart \
   --standalone \
   --email-obfuscation=references \
@@ -28,7 +28,7 @@ pandoc resume_fr.md -o resume_fr.html -t html5 \
   --include-after-body=_pandoc/footer_fr.html \
   --variable="pagetitle:Resume :: Mustapha Lateb"
 
-pandoc resume_fr.md -o resume_fr.odt --reference-doc=_pandoc/reference.odt
+pandoc mlateb_cv_fr.md -o mlateb_cv_fr.odt --reference-doc=_pandoc/reference.odt
 
-libreoffice --headless --convert-to doc resume_fr.odt
-libreoffice --headless --convert-to pdf resume_fr.odt
+libreoffice --headless --convert-to doc mlateb_cv_fr.odt
+libreoffice --headless --convert-to pdf mlateb_cv_fr.odt
