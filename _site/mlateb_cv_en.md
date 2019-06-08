@@ -8,11 +8,9 @@ Adress: Chania, Greece    | Phone: 699 499 7057
 Introduction
 ------------
    
-Graduated, both, in **Ecology** and in **Geoinformation**. My research is mainly on Landcover change and forest fire mapping using satellite Remote Sensing and GIS.    
-  
-Fun of **Data science**, I like to investigate new Image Processing, Machine Learning, Statistics and Timeseries Analysis techniques.  
-   
-My most used tools are Python and its Geospatial libraries, QGIS, Bash, SQL, HTML, CSS and Git.     
+Graduated, both, in **Ecology** and in **Geoinformation**. My research is mainly on Landcover change and forest fire mapping using satellite Remote Sensing and GIS.   
+Fun of **Data science**, I like to investigate new Image Processing, Machine Learning, Statistics and Timeseries Analysis techniques.   
+My most used tools are Python and its Geospatial libraries, QGIS, Bash, SQL, HTML, CSS and Git.  
    
 Work Experience  
 ---------------      
@@ -40,29 +38,26 @@ Education
 Organizational Skills
 ---------------------
    
-At [MAICh][], I worked in multicultural and multidisciplinary environment. I was in the organising committee of the two following conferences:    
+Used to work in multicultural and multidisciplinary teams. Open to new ideas and challenges. I was in the organising committee of the following conferences:    
     
-* [38th Annual EARSeL Symposium][] on *Earth Observation Supporting Sustainability Research* 9-12 July 2018 Chania, Crete, Greece   
-  
-* [11th EARSeL Forest Fires SIG Workshop][] on *New Trends in Forest Fire Research Incorporating Big Data and Climate Change Modeling* 25-27 September 2017, Chania, GREECE   
-      
+* [38th Annual EARSeL Symposium][]
+* [11th EARSeL Forest Fires SIG Workshop][]   
+    
 Programming Skills
 ------------------   
    
-* **Geospatial processing:** Python ([*MITx 6.00.1x certificate*][]) (Rasterio, Pandas, Numpy, Matplotlib,Seaborn, geopandas, Shapely, …)
-* **Version controle:** Git 
-* **Database:** SQL
-* **Web design:** HTML , CSS, Markdown 
-* **Softwares:** QGIS, eCognition,  ArcGIS, ERDAS, MapInfo
-* **Operating systems:** Linux & Windows   
+**Geospatial processing:** [Python][] (Rasterio, Pandas, Numpy, Matplotlib,Seaborn, geopandas, Shapely, …)   
+**Version controle:** Git, | **Database:** SQL | 
+**Web design:** HTML , CSS, Markdown   
+**Softwares:** QGIS, eCognition,  ArcGIS, ERDAS, MapInfo  
+**Operating systems:** Linux & Windows   
    
 Languages
 ---------   
-* **Kabyle :** Mother tongue
-* **English:** Fluent
-* **French:** Fluent 
-* **Arabic:**  Fluent
-* **Greek:** Beginner     
+
+* **English:** Fluent |  **French:** Fluent | **Arabic:**  Fluent |  **Greek:** Beginner
+* **Kabyle :** Mother tongue 
+
 
 
 [mlateb.github.io]:https://mlateb.github.io 
@@ -73,4 +68,4 @@ Languages
 [38th Annual EARSeL Symposium]:http://symposium.earsel.org/38th-symposium-Chania   
 [11th EARSeL Forest Fires SIG Workshop]:http://ffsig2017.maich.gr/en/   
 
-[*MITx 6.00.1x certificate*]:https://courses.edx.org/certificates/4356b753befc4825afcaf5649f4be6ad
+[Python]:https://courses.edx.org/certificates/4356b753befc4825afcaf5649f4be6ad
