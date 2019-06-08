@@ -3,10 +3,11 @@ Mustapha Lateb
 
 Website: [mlateb.github.io][] | GitHub: [mlateb][]   
 Email: <mustapha.lateb@gmail.com>  
-Adress: Chania, Greece    | Phone: 699 499 7057
+Adress: Chania, Greece    
+Phone: 699 499 7057   
 
 Introduction
-------------
+------------   
    
 Graduated, both, in **Ecology** and in **Geoinformation**. My research is mainly on Landcover change and forest fire mapping using satellite Remote Sensing and GIS.    
   
@@ -15,13 +16,11 @@ Fun of **Data science**, I like to investigate new Image Processing, Machine Lea
 My most used tools are Python and its Geospatial libraries, QGIS, Bash, SQL, HTML, CSS and Git.     
    
 Work Experience  
----------------      
-* Jan 2017– Current : **Researcher** at the *Geoinformation in Environmental Management* departement, *Mediterranean Agronomic Institute of Chania* [MAICh][].      
+---------------   
    
-During two years I held two positions at [Aldaph-NovoNordisk][], a global healthcare company:    
-    
-* Mar 2013–Sep 2013 : **Energy Steward** at Aldaph (Novo Nordisk A/S),TO, Algeria
-* Nov 2011–Feb 2013 : **Quality Assurance Technician** at Aldaph (Novo Nordisk A/S),TO, Algeria    
+* Jan 2017– current : **Researcher** at the *Geoinformation in Environmental Management* departement, *Mediterranean Agronomic Institute of Chania* [MAICh][].
+* Mar 2013–Sep 2013 : **Energy Steward** at [Aldaph-NovoNordisk][],TO, Algeria
+* Nov 2011–Feb 2013 : **Quality Assurance Technician** at Aldaph [Aldaph-NovoNordisk][],TO, Algeria    
 
 Education
 ---------   
@@ -38,9 +37,9 @@ Education
 *Thesis topic:* "  Creation of a Dynamic Website "   
    
 Organizational Skills
----------------------
+---------------------   
    
-At [MAICh][], I worked in multicultural and multidisciplinary environment. I was in the organising committee of the two following conferences:    
+I was member of the organising committee of the two following international conferences:    
     
 * [38th Annual EARSeL Symposium][] on *Earth Observation Supporting Sustainability Research* 9-12 July 2018 Chania, Crete, Greece   
   
@@ -58,6 +57,7 @@ Programming Skills
    
 Languages
 ---------   
+    
 * **Kabyle :** Mother tongue
 * **English:** Fluent
 * **French:** Fluent 
