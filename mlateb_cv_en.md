@@ -19,13 +19,13 @@ Work Experience
 ---------------   
    
 * Jan 2017– current : **Researcher** at the *Geoinformation in Environmental Management* departement, *Mediterranean Agronomic Institute of Chania* [MAICh][].
-* Mar 2013–Sep 2013 : **Energy Steward** at [Aldaph-NovoNordisk][],TO, Algeria
-* Nov 2011–Feb 2013 : **Quality Assurance Technician** at Aldaph [Aldaph-NovoNordisk][],TO, Algeria    
+* Mar 2013–Sep 2013 : **Energy Steward** at [Aldaph-NovoNordisk][],Tizi-Ouzou, Algeria
+* Nov 2011–Feb 2013 : **Quality Assurance Technician** at [Aldaph-NovoNordisk][],Tizi-Ouzou, Algeria    
 
 Education
 ---------   
    
-* 2016 – current : *PhD student*, **Geoinformation applied to Plant Ecology**, Mouloud Mammeri University of Tizi-Ouzou MMTO, Algeria    
+* 2016 – current : *Doctoral candidate*, **Geoinformation applied to Plant Ecology**, Mouloud Mammeri University of Tizi-Ouzou MMTO, Algeria    
 *Topic:* Multitemporal landcover mapping   
 * 2013 - 2016 : *M. Sc. Degree (2 years)*, **Geoinformation in Environmental Management**, MAICh, Greece    
 *Thesis topic:* " Development of an object-based classification model for monitoring treeline shifting, using aerial photography"   
@@ -43,7 +43,7 @@ I was member of the organising committee of the two following international conf
     
 * [38th Annual EARSeL Symposium][] on *Earth Observation Supporting Sustainability Research* 9-12 July 2018 Chania, Crete, Greece   
   
-* [11th EARSeL Forest Fires SIG Workshop][] on *New Trends in Forest Fire Research Incorporating Big Data and Climate Change Modeling* 25-27 September 2017, Chania, GREECE   
+* [11th EARSeL Forest Fires SIG Workshop][] on *New Trends in Forest Fire Research Incorporating Big Data and Climate Change Modeling* 25-27 September 2017, Chania, Greece   
       
 Programming Skills
 ------------------   
@@ -59,7 +59,7 @@ Languages
 ---------   
     
 * **Kabyle :** Mother tongue
-* **English:** Fluent
+* **English:** TOEFL ITP
 * **French:** Fluent 
 * **Arabic:**  Fluent
 * **Greek:** Beginner     
