@@ -11,15 +11,15 @@ Introduction
    
 Graduated, both, in **Ecology** and in **Geoinformation**. My research is mainly on Landcover change and forest fire mapping using satellite Remote Sensing and GIS.    
   
-Fun of **Data science**, I like to investigate new Image Processing, Machine Learning, Statistics and Timeseries Analysis techniques.  
+Fan of **Data science**, I like to investigate new Image Processing, Machine Learning, Statistics and Timeseries Analysis techniques.  
    
 My most used tools are Python and its Geospatial libraries, QGIS, Bash, SQL, HTML, CSS and Git.     
    
 Work Experience  
 ---------------   
    
-* Jan 2017– current : **Researcher** at the *Geoinformation in Environmental Management* departement, *Mediterranean Agronomic Institute of Chania* [MAICh][].
-* Mar 2013–Sep 2013 : **Energy Steward** at [Aldaph-NovoNordisk][],Tizi-Ouzou, Algeria
+* Jan 2017– current : **Researcher** at the *Geoinformation in Environmental Management* departement, *Mediterranean Agronomic Institute of Chania* [MAICh][].   
+* Mar 2013–Sep 2013 : **Energy Steward** at [Aldaph-NovoNordisk][],Tizi-Ouzou, Algeria   
 * Nov 2011–Feb 2013 : **Quality Assurance Technician** at [Aldaph-NovoNordisk][],Tizi-Ouzou, Algeria    
 
 Education

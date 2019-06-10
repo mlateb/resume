@@ -9,7 +9,7 @@ Introduction
 ------------   
 Doublement diplomé; Magister en **Ecologie** et MSc en **Geoinformation**.  Mon travail de recherche est axé sur la cartographie  des Changement du couvert et des Incendies de Forêt, par le billet de la Télédétection et des SIG.  
   
-Fun de la **Data science**, J'aime explorer de nouvelles techniques de Traitement d'Image, Machine Learning, Statistique et de Series Temporelles.  
+Fan de la **Data science**, J'aime explorer de nouvelles techniques de Traitement d'Image, Machine Learning, Statistique et de Series Temporelles.  
    
 Les outils les plus fréquament utlisés sont Python et ses Librairies Geospatialles, QGIS, Bash, SQL, HTML, CSS et Git.     
    
