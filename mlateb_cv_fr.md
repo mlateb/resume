@@ -3,7 +3,7 @@ Mustapha Lateb
 
 Siteweb: [mlateb.github.io][] | GitHub: [mlateb][]   
 Email: <mustapha.lateb@gmail.com>  
-Adresse: Chania, Grèce | Tel: 699 499 7057   
+Adresse: Tizi-Ouzou, Algérie | Tel: +213 552 413 491      
 
 Introduction
 ------------   
@@ -16,7 +16,7 @@ Les outils les plus fréquament utlisés sont Python et ses Librairies Geospatia
 Experience Professionelle  
 -------------------------   
    
-* Jan 2017– actuel : **Chercheur** départment *Geoinformation in Environmental Management*, du *Mediterranean Agronomic Institute of Chania* [MAICh][], Grèce.
+* Jan 2017–Jui 2019 : **Chercheur** départment *Geoinformation in Environmental Management*, du *Mediterranean Agronomic Institute of Chania* [MAICh][], Grèce.
 * Mar 2013–Sep 2013 : **Energy Steward** chez [Aldaph-NovoNordisk][],Tizi-Ouzou, Algérie.
 * Nov 2011–Feb 2013 : **Technicien Assurance Qualité** chez [Aldaph-NovoNordisk][],Tizi-Ouzou, Algérie    
 
