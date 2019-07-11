@@ -7,7 +7,7 @@ Adresse: Tizi-Ouzou, Algérie | Tel: +213 552 413 491
 
 Introduction
 ------------   
-Doublement diplomé; Magister en **Ecologie** et MSc en **Geoinformation**.  Mon travail de recherche est axé sur la cartographie  des Changement du couvert et des Incendies de Forêt, par le billet de la Télédétection et des SIG.  
+Doublement diplomé; Magister en **Environnement** et MSc en **Geoinformation**. Mon travail de recherche est axé sur la cartographie  des Changement du couvert et des Incendies de Forêt, par le billet de la Télédétection et des SIG.  
   
 Fan de la **Data science**, J'aime explorer de nouvelles techniques de Traitement d'Image, Machine Learning, Statistique et de Series Temporelles.  
    
