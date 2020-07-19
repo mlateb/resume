@@ -11,26 +11,6 @@ pandoc mlateb_cv_en.md -o index.html -t html5 \
   --include-after-body=_pandoc/footer_en.html \
   --variable="pagetitle:Resume :: Mustapha Lateb"
 
-pandoc mlateb_cv_en.md -o mlateb_cv_en.odt --reference-doc=_pandoc/reference.odt
-
-libreoffice --headless --convert-to doc mlateb_cv_en.odt
-libreoffice --headless --convert-to pdf mlateb_cv_en.odt
-
-
-#fr
-pandoc mlateb_cv_fr.md -o mlateb_cv_fr.html -t html5 \
-  -f markdown+smart \
-  --standalone \
-  --email-obfuscation=references \
-  --data-dir=_pandoc \
-  --include-in-header=_pandoc/header_styles.html \
-  --include-before-body=_pandoc/header_fr.html \
-  --include-after-body=_pandoc/footer_fr.html \
-  --variable="pagetitle:Resume :: Mustapha Lateb"
-
-pandoc mlateb_cv_fr.md -o mlateb_cv_fr.odt --reference-doc=_pandoc/reference.odt
-
-libreoffice --headless --convert-to doc mlateb_cv_fr.odt
-libreoffice --headless --convert-to pdf mlateb_cv_fr.odt
-
+pandoc mlateb_cv_en.md -f markdown+smart -o mlateb_cv_en.pdf
+pandoc mlateb_cv_en.md -f markdown+smart -o mlateb_cv_en.odt
 echo Documents created successfully!!

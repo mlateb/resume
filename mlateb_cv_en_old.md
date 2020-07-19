@@ -1,14 +1,9 @@
 Mustapha Lateb
 ==============
 
-Website: [mlateb.github.io][] | GitHub: [mlateb][]   
-Email: <mustapha.lateb@gmail.com>  
-Adress: Tizi-Ouzou, Algeria    
-Phone: +213 556 137 469      
-
-Introduction
-------------   
-   
+Website: [mlateb.github.io][] | GitHub: [mlateb][] | Email: <mustapha.lateb@gmail.com>  
+Adress: Tizi-Ouzou, Algeria| Phone: +213 556 137 469      
+     
 Graduated, both, in **Geoinformation** and in **Environment**. My interest is mainly on Landcover change and forest fire mapping using satellite Remote Sensing and GIS.    
   
 Fan of **Data science**, I like to investigate new Image Processing, Machine Learning, Statistics and Timeseries Analysis techniques.  
