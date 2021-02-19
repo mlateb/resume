@@ -13,16 +13,12 @@ geometry: margin=2cm
 |![](internet.png) Website: **[mlateb.github.io][]**  | ![](github.png) Repositories: **[mlateb][]**  |  ![](email.png) <mustapha.lateb@gmail.com>|  
 |![](address.png) Address: Tizi-Ouzou, Algeria  |  ![](phone.png) Mobile: +213 556 137 469|
      
-Objective
----------
-Seeking a challenging opportunity in the field of geoinformation where my skills, education, and many years of research can be fully utilized. 
-     
    
 Work experience   
 ---------------   
    
 since Oct 2019   
-**GIS lecturer** at the *Biological and Agricultural Sciences* Faculty, [UMMTO][] , Algeria.   
+**GIS lecturer (Part Time)** at the *Biological and Agricultural Sciences* Faculty, [UMMTO][] , Algeria.   
    
 Jan 2017–Jun 2019   
 **Researcher** at the *Geoinformation in Environmental Management* departement, [MAICh][], Greece.   
@@ -75,11 +71,11 @@ Organising committee member of the following international conferences:
 Programming Skills
 ------------------   
    
-* **Geospatial processing:** Python ([*MITx 6.00.1x certificate*][]) (Rasterio, Pandas, Numpy, Matplotlib,Seaborn, geopandas, Shapely, …)
+* **Geospatial processing:** Python ([*MITx 6.00.1x certificate*][]), beginner in R
 * **Version controle:** Git 
 * **Database:** PostGIS, PostgreSQL, SQL
 * **Web design:** Django, HTML, CSS, Markdown 
-* **Softwares:** QGIS, eCognition,  ArcGIS, ERDAS, MapInfo
+* **Softwares:** QGIS, eCognition,  ArcGIS, ERDAS
 * **Operating systems:** Linux & Windows   
    
 Languages
@@ -104,4 +100,4 @@ Languages
 [AGR3S]:http://agr3s2017.univ-boumerdes.dz   
 [SPLIT]:https://splitremotesensing.com/home-2016/#after_section_1   
 [OpenGIS]:https://opengis2015.pns.aegean.gr   
-[*MITx 6.00.1x certificate*]:https://courses.edx.org/certificates/4356b753befc4825afcaf5649f4be6
+[*MITx 6.00.1x certificate*]:https://courses.edx.org/certificates/4356b753befc4825afcaf5649f4be6ad
