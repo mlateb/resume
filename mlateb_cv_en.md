@@ -21,7 +21,7 @@ since Oct 2019
 **GIS lecturer (Part Time)** at the *Biological and Agricultural Sciences* Faculty, [UMMTO][] , Algeria.   
    
 Jan 2017–Jun 2019   
-**Researcher** at the *Geoinformation in Environmental Management* departement, [MAICh][], Greece.   
+**Postgraduate Researcher** at the *Geoinformation* departement, [MAICh][], Greece.   
 
 Mar 2013–Sep 2013   
 **Energy Steward** at [Aldaph-NovoNordisk][],Tizi-Ouzou, Algeria   
@@ -32,10 +32,11 @@ Nov 2011–Feb 2013
 Education   
 ---------   
    
-* M.Sc., Geoinformation in Environmental Management, [MAICh][], Greece, **2016**     
-* Magister degree, Applied Environmental Management, [UMMTO][], Algeria, **2015**  
-* Ingénieur d'Etat, Environmental Management, [UMMTO][], Algeria, **2011**  
-* Senior Technician, Database Management,  INSFP, Algeria, **2011**   
+* **Doctoral candidate**, in Geoinformation at [UMMTO][] & [MAICh][], 2015 - Current   
+* **M.Sc.**, Geoinformation in Environmental Management, [MAICh][], Greece, 2016     
+* **Magister degree**, Applied Environmental Management, [UMMTO][], Algeria, 2014  
+* **Ingénieur d'Etat**, Environmental Management, [UMMTO][], Algeria, 2011  
+* **Senior Technician**, Database Management,  INSFP, Algeria, 2011   
   
 Attended summer schools   
 -----------------------   
