@@ -32,7 +32,7 @@ Nov 2011–Feb 2013
 Education   
 ---------   
    
-* **Doctoral candidate**, in Geoinformation at [UMMTO][] & [MAICh][], 2015 - Current   
+* **Doctoral candidate**, in Environmental Management at [UMMTO][] & [MAICh][], 2015 - Current   
 * **M.Sc.**, Geoinformation in Environmental Management, [MAICh][], Greece, 2016     
 * **Magister degree**, Applied Environmental Management, [UMMTO][], Algeria, 2014  
 * **Ingénieur d'Etat**, Environmental Management, [UMMTO][], Algeria, 2011  
