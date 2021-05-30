@@ -75,7 +75,7 @@ Programming Skills
 * **Geospatial processing:** Python ([*MITx 6.00.1x certificate*][]), beginner in R
 * **Version controle:** Git 
 * **Database:** PostGIS, PostgreSQL, SQL
-* **Web design:** Django, HTML, CSS, Markdown 
+* **Web mapping:** GeoDjango, GeoServer, Leflet, OpenLayers 
 * **Softwares:** QGIS, eCognition,  ArcGIS, ERDAS
 * **Operating systems:** Linux & Windows   
    
